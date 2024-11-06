@@ -16,7 +16,7 @@
     "startup": "java -jar Lavalink.jar --server.port={{SERVER_PORT}}",
     "config": {
         "files": "{}",
-        "startup": "{\r\n    \"done\": \"Started Lavalink\"\r\n}",
+        "startup": "{\r\n    \"done\": \"Lavalink is ready to accept connections.\"\r\n}",
         "logs": "{\r\n    \"location\": \"logs\/\"\r\n}",
         "stop": "^^C"
     },
